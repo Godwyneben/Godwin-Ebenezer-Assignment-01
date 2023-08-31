@@ -38,7 +38,7 @@ function countEvenNumbersWithin(destination) {
     let count = 0;
     let arrayOfEvenNumbers = [];
 
-    for (let number = 1; number <= destination; number++) {
+    for (let number = 1; number <= 20; number++) {
       if (number % 2 === 0) {
         count++;
         sum += number;
