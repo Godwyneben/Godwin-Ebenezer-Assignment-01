@@ -54,7 +54,6 @@ function countEvenNumbersWithin(destination) {
 
 }
 
-// assignment.countEvenNumbersWithin = countEvenNumbersWithin;
 
 /**
  * Challenge - 3
